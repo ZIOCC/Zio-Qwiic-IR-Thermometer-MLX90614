@@ -29,5 +29,5 @@ Specifications:
 
 Links:
 
-    MLX90614 Datasheet: 
-    Library link
+    MLX90614 Datasheet: https://www.sparkfun.com/datasheets/Sensors/Temperature/MLX90614_rev001.pdf
+    Library link: https://github.com/adafruit/Adafruit-MLX90614-Library
