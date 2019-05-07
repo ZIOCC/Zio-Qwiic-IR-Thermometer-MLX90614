@@ -1,6 +1,13 @@
-# Zio-Qwiic-IR-Thermometer-MLX90614
+# Zio Qwiic Surface IR Thermometer (MLX90614)
 
-Description
+![](mlx90614.png)
+
+> This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Surface-Temperature-Infrared-Sensor-MLX9061).
+
+
+
+
+##### Description
 
 The latest incorporation to our Qwiic family is this high precision temperature module!  It has a very cool feature on sensing temperatures remotely thanks to the infrared light emitted. Most of the object temperature sensors need to be in contact to the object to take a measurement, but the ZIO IR Thermometer determines the light rebounding off objects, in this way the temperature can be sensed even if the object is located in a certain distance. To get a temperature measurement just point the sensor facing the object to evaluate and it will gather the data by absorbing the IR waves diffused.
 
@@ -14,20 +21,27 @@ The multifunctional temperature sensor can also be read via PWM interface throug
 
 
 
-Specifications:
+##### Specifications:
 
-    Factory calibrated in wide temperature range:
-    -40 to 125  ̊C for sensor temperature and
-    -70 to 380  ̊C for object temperature.
-    Resolution: 0.02°C
-    Single and dual zone versions
-    Current Consumption: 25mA
-    Dimensions: 16.4 x 26.8mm
-    Weight: 2.3g
+* Factory calibrated in wide temperature range:
+    * -40 to 125  ̊C for sensor temperature and
+    * -70 to 380  ̊C for object temperature.
+* Resolution: 0.02°C
+* Single and dual zone versions
+* Current Consumption: 25mA
+* Dimensions: 16.4 x 26.8mm
+* Weight: 2.3g
 
 
 
-Links:
+##### Links
 
-    MLX90614 Datasheet: https://www.sparkfun.com/datasheets/Sensors/Temperature/MLX90614_rev001.pdf
-    Library link: https://github.com/adafruit/Adafruit-MLX90614-Library
+* [MLX90614 Datasheet](https://www.sparkfun.com/datasheets/Sensors/Temperature/MLX90614_rev001.pdf) 
+* [Library link](https://github.com/adafruit/Adafruit-MLX90614-Library)
+
+
+
+
+
+> ###### About Zio
+> Zio is a new line of open sourced, compact, and grid layout boards, fully integrated for Arduino and Qwiic ecosystem. Designed ideally for wearables, robotics, small-space limitations or other on the go projects. Check out other awesome Zio products [here](https://www.smart-prototyping.com/Zio).
